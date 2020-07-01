@@ -1,0 +1,19 @@
+#Running Instructions
+
+1. Download the zipped folder
+
+2. Extract the files into your computer
+
+3. Start the Apache and phpMyAdmin services
+
+4. Go to "localhost:PORT NO. " (Port no. is the port server runs on). This way you may experience the client portal . Then, login to phpMyAdmin. 
+
+5. Set up the connection of the databases to MySql in phpMyAdmin
+
+6. Go to "localhost:PORT/admin" . This will lead you to the admin portal and is fully functional.
+	Default admin user: admin123
+   	Default admin password: password123
+
+7. Sign up and Log-in into Hostel Management System as users. Check all the fuctionalities provided.
+
+

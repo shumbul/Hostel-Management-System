@@ -1,0 +1,22 @@
+#TOOLS USED
+
+Database: MySql
+Front-end: HTML, CSS, JavaScript
+Back-end: PHP
+
+
+##Hardware Requirements
+
+Processor: Pentium or greater
+RAM: 512MB
+Hard Disk: Depends on how much data is stored in DATABASE (min IGB)
+Keyboard
+Monitor
+
+
+##Software Requirements
+
+OS: Windows/Linux
+Database: SQL
+
+<!-- ### For more details regarding the tools used refer to "requirements.txt" -->
